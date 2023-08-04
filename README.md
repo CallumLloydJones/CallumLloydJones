@@ -1,4 +1,7 @@
+![banner](https://github.com/CallumLloydJones/CallumLloydJones/assets/66999213/0c0320fd-3454-4a80-bdc9-18c52d606107)
+
 # Summary
+
 I am currently pursuing an MPhil in Engineering at Swansea University, where I am engaged in advanced studies within the field of computational fluid dynamics and fluid-structure interaction. 
 I hold a prestigious Master's degree in Physics with first-class honours from Cardiff University, which has equipped me with a strong foundation in scientific principles and critical thinking. 
 Throughout my academic journey, I have developed a profound fascination for data science and data analysis, recognising their immense potential to drive innovation and inform decision-making.
