@@ -8,10 +8,14 @@ I hold a prestigious Master's degree in Physics with first-class honours from Ca
 Throughout my academic journey, I have developed a profound fascination for data science and data analysis, recognising their immense potential to drive innovation and inform decision-making.
 
 # Education
-### Swansea University - MPhil in Engineering (September 2019 - Present) 
-Expected end date: 30/09/2023 (MPhil)
+### Swansea University (September 2019 - Present)  
+<b>Master of Philosophy in Engineering (MPhil) </b>
 
-### Cardiff University - Master's of Physics (MPhys) (September 2015 - July 2019)
+Expected end date: 30/09/2023
+
+### Cardiff University (September 2015 - July 2019)
+<b>Master's of Physics (MPhys) </b>
+
 Graduated with First Class Honours 
 
 # Academic Experience
