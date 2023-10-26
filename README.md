@@ -3,15 +3,13 @@
 
 # Summary
 
-I am currently pursuing an MPhil in Engineering at Swansea University, where I am engaged in advanced studies within the field of computational fluid dynamics and fluid-structure interaction. 
-I hold a prestigious Master's degree in Physics with first-class honours from Cardiff University, which has equipped me with a strong foundation in scientific principles and critical thinking. 
-Throughout my academic journey, I have developed a profound fascination for data science and data analysis, recognising their immense potential to drive innovation and inform decision-making.
+I hold a prestigious Master's degree in Physics with first-class honours from Cardiff University, which has equipped me with a strong foundation in scientific principles and critical thinking. Throughout my academic journey, I have developed a profound fascination for data science and data analysis. I am currently awaiting the viva for an MPhil in Materials Engineering at Swansea University, where studied computational modelling.
 
 # Education
-### Swansea University (September 2019 - Present)  
+### Swansea University (September 2019 - September 2023)  
 <b>Master of Philosophy in Engineering (MPhil) </b>
 
-Expected end date: 30/09/2023
+Awaiting viva date.
 
 ### Cardiff University (September 2015 - July 2019)
 <b>Master's of Physics (MPhys) </b>
