@@ -3,7 +3,7 @@
 
 # Summary
 
-I hold a prestigious Master's degree in Physics with first-class honours from Cardiff University, which has equipped me with a strong foundation in scientific principles and critical thinking. Throughout my academic journey, I have developed a profound fascination for data science and data analysis. I am currently awaiting the viva for an MPhil in Materials Engineering at Swansea University, where studied computational modelling.
+I hold a prestigious Master's degree in Physics with first-class honours from Cardiff University, which has equipped me with a strong foundation in scientific principles and critical thinking. Throughout my academic journey, I have developed a fascination for data science. I am currently awaiting the viva for an MPhil in Materials Engineering at Swansea University, where studied computational modelling.
 
 # Education
 ### Swansea University (September 2019 - September 2023)  
