@@ -1,7 +1,4 @@
-![banner](https://github.com/CallumLloydJones/CallumLloydJones/assets/66999213/e7e3e623-73ed-40eb-a9f8-9716207bdec5)
-
 ![banner2](https://github.com/CallumLloydJones/CallumLloydJones/assets/66999213/4ea19403-fd53-4703-a2f6-95fe76aa2078)
-
 
 # Summary
 
