@@ -1,5 +1,8 @@
 ![banner](https://github.com/CallumLloydJones/CallumLloydJones/assets/66999213/e7e3e623-73ed-40eb-a9f8-9716207bdec5)
 
+![banner2](https://github.com/CallumLloydJones/CallumLloydJones/assets/66999213/4ea19403-fd53-4703-a2f6-95fe76aa2078)
+
+
 # Summary
 
 I hold a prestigious Master's degree in Physics with first-class honours from Cardiff University, which has equipped me with a strong foundation in scientific principles and critical thinking. Throughout my academic journey, I have developed a fascination for data science. I am currently awaiting the viva for an MPhil in Materials Engineering at Swansea University, where studied computational modelling.
