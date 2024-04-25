@@ -6,8 +6,6 @@ I hold a prestigious Master's degree in Physics with first-class honours from Ca
 ### Swansea University (September 2019 - September 2023)  
 <b>Master of Philosophy in Engineering (MPhil) </b>
 
-Awaiting viva date.
-
 ### Cardiff University (September 2015 - July 2019)
 <b>Master's of Physics (MPhys) </b>
 
